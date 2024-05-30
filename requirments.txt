@@ -1,0 +1,14 @@
+Torch
+Transformers
+flask
+numpy
+opencv-python
+tensorflow==2.9.0rc0
+tensorflow-object-detection-api
+h5py
+Keras-Preprocessing
+libclang
+scipy
+termcolor
+Werkzeug
+protobuf==3.20
